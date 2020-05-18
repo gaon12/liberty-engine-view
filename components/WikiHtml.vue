@@ -234,7 +234,8 @@ export default {
   }
 
   .embed-video {
-    max-width: 100%;
+    height: 360px;
+	width: 640px;
   }
 
   .liberty-table-wrapper {
